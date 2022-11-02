@@ -2,7 +2,7 @@
 #EXTM3U 
 
 #EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-logo="https://i.imgur.com/tKDzu9t.png" group-title="Sports",Win Sports+
-http://190.61.41.182:8000/play/a2lo/index.m3u8
+http://fortv.cc:8080/Rock/hastings420/78697
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/FR5xgtJf/Telemundo-AL-DIA.png",TELEMUNDO PUERTORICO TV * |HD|
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-1 tvg-id="1205" tvg-name="Viwix TV Terror" tvg-logo="https://i.postimg.cc/h4V1HXg9/VIWIX-TV-TERROR.png", Viwix TV Terror * | CL
